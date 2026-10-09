@@ -74,11 +74,3 @@ Travel: Rs. 50.00
 Enter your choice: 4
 Overall expense total: Rs. 200.00
 ```
-
-## Submission checklist
-- [ ] Upload `main.cpp` and this `README.md` to a GitHub repository.
-- [ ] Set the repository visibility to Public, if you are comfortable making the code public and the task requires a public link.
-- [ ] Run the program and take screenshots of a successful run, including adding expenses and showing totals.
-- [ ] Paste the GitHub repository URL into EdVyro's Project URL field and select **Submit for review**.
-
-Note: Expenses are stored in memory while the program runs; they are not saved after exiting. Persistent file storage was not required by the task brief shown in the dashboard.
